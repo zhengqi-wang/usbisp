@@ -1,3 +1,5 @@
+This is a fork from aleh/usbisp. The main work is located in the folder "usbisp2asp".
+
 # USBasp on a clone
 
 This is a fork of the original [USBasp](http://www.fischl.de/usbasp/) firmware (the file from [2011-05-28](http://www.fischl.de/usbasp/usbasp.2011-05-28.tar.gz)) tweaked to work with clone "USB ISP Version 2.0" devices (marked "MX-USBISP-V4.00" on the PCB). The original documentation and license is in `Readme.txt`.
