@@ -1,4 +1,4 @@
-This is a fork from aleh/usbisp. The main work is located in the folder "usbisp2asp".
+This is a fork from aleh/usbisp. The main work is located in the folder "usbisp2asp/firmware".
 
 # USBasp on a clone
 
